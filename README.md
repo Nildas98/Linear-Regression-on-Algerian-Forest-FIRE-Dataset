@@ -1,1 +1,1 @@
-# Linear-Regression-on-Algerian-Forest-FIRE-Dataset
+# Linear-Regression-on-Algerian-Forest-Fire-Dataset
